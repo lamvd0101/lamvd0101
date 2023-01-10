@@ -1,1 +1,6 @@
-<a href="https://app.daily.dev/lamvd0101"><img src="https://api.daily.dev/devcards/3dae93340e294ec5b7f63778f47189ec.png?r=0fg" width="400" alt="Liam's Dev Card"/></a>
+**Hi! I'm Liam 👋**
+
+*I am a Software Engineer and I am currently responsible for Technical Lead role at Tiki Corporation. I’m looking for new challenges, professional environment, enthusiastic colleagues with a spirit ready to help.*
+
+- LinkedIn: http://linkedin.com/in/lamvd0101
+- Medium: http://medium.com/@lamvd0101

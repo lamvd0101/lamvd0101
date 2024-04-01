@@ -1,4 +1,4 @@
-**Hi! I'm Liam 👋**
+**Hi! I'm Lâm 👋**
 
 *I am a Software Engineer and I am currently responsible for Technical Lead role at Tiki Corporation. I’m looking for new challenges, professional environment, enthusiastic colleagues with a spirit ready to help.*
 
